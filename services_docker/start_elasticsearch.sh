@@ -1,6 +1,7 @@
 #!/bin/bash
 
-elasticsearch_dir="/opt/elasticsearch-data"
+#elasticsearch_dir="/opt/elasticsearch-data"
+elasticsearch_dir="$HOME/workspace/elasticsearch-data"
 
 #
 # create persisten directory for elasticsearch
